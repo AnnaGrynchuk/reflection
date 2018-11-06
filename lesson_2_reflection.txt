@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
  An empty repository creates. We need it to track all files from our project
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+ You can add to staging area your little changes one by one and then make one logical commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+  
+  Branches would be helpful if you want to try some new featchures or little bit other version of project, but separately from main version
